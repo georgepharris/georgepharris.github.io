@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "Structural Geology"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+type: "Undergraduate lab course"
+permalink: /teaching/structure
+venue: "New Mexico Tech, Department"
+date: 2023-02-01
 location: "City, Country"
 ---
 

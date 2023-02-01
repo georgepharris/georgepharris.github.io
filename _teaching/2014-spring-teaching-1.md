@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate lab course"
 permalink: /teaching/structure
 venue: "New Mexico Tech, Department"
-date: 2023-02-01
+date: 2022-09-01
 location: "City, Country"
 ---
 
